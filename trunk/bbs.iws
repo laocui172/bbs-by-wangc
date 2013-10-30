@@ -25,9 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af1d3f5-c72e-4881-b8de-845e96cda43e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/bbs/IndexActivity.java" afterPath="$PROJECT_DIR$/src/com/example/bbs/IndexActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bbs.ipr" afterPath="$PROJECT_DIR$/bbs.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bbs.iws" afterPath="$PROJECT_DIR$/bbs.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bbs.apk" afterPath="$PROJECT_DIR$/bbs.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
     </list>
     <ignored path="bbs.iws" />
@@ -122,7 +120,7 @@
       <file leaf-file-name="main.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="46" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.85037404">
+            <state line="24" column="47" selection-start="866" selection-end="866" vertical-scroll-proportion="0.6583541">
               <folding />
             </state>
           </provider>
@@ -648,7 +646,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="46" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.85037404">
+        <state line="24" column="47" selection-start="866" selection-end="866" vertical-scroll-proportion="0.6583541">
           <folding />
         </state>
       </provider>
