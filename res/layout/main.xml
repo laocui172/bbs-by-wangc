@@ -9,5 +9,26 @@
             android:layout_height="wrap_content"
             android:text="Hello World, MyActivity"
             />
+
+    <Button
+            android:id="@+id/btZol"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Zol"
+            />
+
+    <Button
+            android:id="@+id/btFengNiao"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="FengNiao"
+            />
+
+    <EditText
+            android:id="@+id/editText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:onClick="btFengNiaoOnClick"/>
 </LinearLayout>
 
