@@ -41,7 +41,7 @@ public class IndexActivity extends Activity {
         editText.setText(strTmp);
 
         Intent intent = new Intent();
-        intent.putExtra("键值对名","要传的值");//向目的Activity传值，不传值时不用写
+        intent.putExtra("str",strTmp);//向目的Activity传值，不传值时不用写
         intent.setClass(IndexActivity.this, IndexZolActivity.class);
         IndexActivity.this.startActivity(intent);
 //        this.finish();//注销第一页，可以不用
