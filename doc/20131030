@@ -1,0 +1,49 @@
+1、先自己做一个简单的demo，包含一个按钮，注册点击事件
+    注册监听事件有两种方式，一种是在java代码中获取button，然后增加监听事件
+    Button btType = (Button) findViewById(R.id.btZol);
+    btType.setOnClickListener(listener);//这里的listener需要声明
+    Button.OnClickListener listener = new Button.OnClickListener(){//创建监听对象
+            public void onClick(View v){
+                i++;
+                String strTmp = "第"+i+"次点击了Button";
+                editText.setText(strTmp);
+            }
+        };
+
+    另一种方式是在java代码中声明事件，然后在main.xml中增加监听事件
+    public void btZolOnClick(View v){
+            i++;
+            String strTmp = "第"+i+"次点击了Button(zol)";
+            editText.setText(strTmp);
+        }
+    在xml中的button增加一个属性android:onClick="btZolOnClick"
+
+    这两种方式均可达到目的，但乌鸦觉得第二种方式更好，代码更简洁，在java中有一个声明一个事件，
+    直接在配置文件中增加一行配置
+
+    参考资料:http://blog.csdn.net/a9529lty/article/details/7542828
+
+2.增加第二个activity
+    新增的activity要在AndroidManifest.xml中注册
+    <activity android:name=".zol.IndexZolActivity"></activity>
+
+    在主页面点击按钮时发生的事件：
+    Intent intent = new Intent();
+    intent.putExtra("键值对名","要传的值");//向目的Activity传值，不传值时不用写
+    intent.setClass(IndexActivity.this, IndexZolActivity.class);
+    IndexActivity.this.startActivity(intent);
+    //IndexActivity.this.finish();//注销第一页，可以不用
+
+    在第二个Activity中取从值
+    Intent intent = getIntent();
+    String str = intent.getStringExtra("键值对名");
+
+
+
+    参考资料:
+    http://rayleung.iteye.com/blog/401407
+    http://www.cnblogs.com/xiao-xu/archive/2013/04/17/3025813.html
+
+
+20131030
+
