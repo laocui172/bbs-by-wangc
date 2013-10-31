@@ -29,21 +29,40 @@
     <bookmark url="file://$PROJECT_DIR$/classes_dex2jar.src/com/zol/android/R.java" line="2152" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6af1d3f5-c72e-4881-b8de-845e96cda43e" name="Default" comment="" />
+    <list default="true" readonly="true" id="6af1d3f5-c72e-4881-b8de-845e96cda43e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/bbs/IndexActivity.java" afterPath="$PROJECT_DIR$/src/com/example/bbs/IndexActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/bbs/zol/IndexZolActivity.java" afterPath="$PROJECT_DIR$/src/com/example/bbs/zol/IndexZolActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bbs.iws" afterPath="$PROJECT_DIR$/bbs.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/index_zol.xml" afterPath="$PROJECT_DIR$/res/layout/index_zol.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/readme" afterPath="$PROJECT_DIR$/src/readme" />
+    </list>
     <ignored path="bbs.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../intelliJ/intelliJ.ipr" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383095125466" ignored="false" />
     <file path="/fragment.java" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383100690023" ignored="false" />
     <file path="/main.xml" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383097622564" ignored="false" />
-    <file path="/readme" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383122307166" ignored="false" />
+    <file path="/readme" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383185990345" ignored="false" />
     <file path="/IndexActivity.java" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383121695878" ignored="false" />
-    <file path="/a.dummy" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383125077817" ignored="false" />
+    <file path="/a.dummy" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383199164429" ignored="false" />
     <file path="D:/work/shangtongka/power/src/com/zihexin/web/cardSecond/comm/XmlReader.java" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383123411133" ignored="false" />
     <file path="/indexZol.xml" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383121478423" ignored="false" />
-    <file path="/IndexZolActivity.java" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383121494540" ignored="false" />
+    <file path="/IndexZolActivity.java" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383185810830" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383121944750" ignored="false" />
     <file path="D:/work/shangtongka/power/src/com/Test.java" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383124177949" ignored="false" />
     <file path="/Test.java" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383123659162" ignored="false" />
+    <file path="/index_zol.xml" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383185554480" ignored="false" />
+    <file path="D:/work/shangtongka/power/resources/wangc/Style.css" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383190799748" ignored="false" />
+    <file path="/Style.css" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383190799748" ignored="false" />
+    <file path="D:/work/shangtongka/power/resources/wangc/default.htm" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383190687976" ignored="false" />
+    <file path="D:/work/zhuanYongKa/sp_report/src/com/zihexin/platform/web/statisticalReport/struts_report.xml" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383198646019" ignored="false" />
+    <file path="D:/work/zhuanYongKa/sp_report/src/com/zihexin/platform/web/demo/excelUpload/action/excelUploadAction.java" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383198995988" ignored="false" />
+    <file path="/excelUploadAction.java" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383198993337" ignored="false" />
+    <file path="D:/work/shangtongka/power/resources/cardSecond/bankManage/bankManage.jsp" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383200162451" ignored="false" />
+    <file path="/bankManage.jsp" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383200143030" ignored="false" />
+    <file path="D:/work/shangtongka/power/WEB-INF/struts-config.xml" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383200501553" ignored="false" />
+    <file path="/struts-config.xml" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383200499771" ignored="false" />
+    <file path="D:/work/shangtongka/power/src/com/zihexin/web/cardSecond/BankBranchManage.java" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383200545876" ignored="false" />
+    <file path="/BankBranchManage.java" changelist="6af1d3f5-c72e-4881-b8de-845e96cda43e" time="1383200539874" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,10 +126,8 @@
       <file leaf-file-name="IndexActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/bbs/IndexActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="40" selection-start="1127" selection-end="1375" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="43" column="28" selection-start="1182" selection-end="1185" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,87 +135,40 @@
       <file leaf-file-name="IndexZolActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/bbs/zol/IndexZolActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="42" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="22" column="50" selection-start="515" selection-end="594" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index_zol.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/index_zol.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="24" selection-start="351" selection-end="351" vertical-scroll-proportion="-3.142857">
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="android-designer">
             <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="50" selection-start="5652" selection-end="5652" vertical-scroll-proportion="0.0">
+            <state line="13" column="15" selection-start="446" selection-end="446" vertical-scroll-proportion="-5.107143">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BbsHomePageAdapter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/com/zol/android/bbs_adapter/BbsHomePageAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="53" selection-start="1436" selection-end="1446" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bbs_home_item.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/res/layout/bbs_home_item.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="32" selection-start="966" selection-end="966" vertical-scroll-proportion="-7.806452">
-              <folding />
-            </state>
-          </provider>
+      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubForum.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/com/zol/android/ui/bbs/SubForum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="43" selection-start="1105" selection-end="1105" vertical-scroll-proportion="0.0">
+            <state line="28" column="13" selection-start="931" selection-end="939" vertical-scroll-proportion="-3.0714285">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="30" selection-start="1136" selection-end="1148" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="R.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/com/zol/android/R.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2153" column="55" selection-start="125397" selection-end="125407" vertical-scroll-proportion="0.26241136">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="readme" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/readme">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="20" selection-start="1198" selection-end="1198" vertical-scroll-proportion="0.0">
+            <state line="37" column="43" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.48247078">
               <folding />
             </state>
           </provider>
@@ -222,19 +192,20 @@
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/classes_dex2jar.src/res/layout/fristview.xml" />
         <option value="$PROJECT_DIR$/res/layout/indexZol.xml" />
-        <option value="$PROJECT_DIR$/src/com/example/bbs/zol/IndexZolActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/example/bbs/IndexActivity.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/readme" />
         <option value="$PROJECT_DIR$/classes_dex2jar.src/res/layout/bbs_home_item.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/bbs/IndexActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/bbs/zol/IndexZolActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/index_zol.xml" />
+        <option value="$PROJECT_DIR$/src/readme" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="134" />
-    <option name="y" value="116" />
-    <option name="width" value="1496" />
-    <option name="height" value="830" />
+    <option name="x" value="147" />
+    <option name="y" value="46" />
+    <option name="width" value="1408" />
+    <option name="height" value="895" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -264,8 +235,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -326,6 +295,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bbs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IndexZolActivity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bbs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bbs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -340,142 +335,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="classes_dex2jar.src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbs" />
+              <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="classes_dex2jar.src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zol" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes_dex2jar.src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zol" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes_dex2jar.src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zol" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes_dex2jar.src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zol" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes_dex2jar.src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -494,8 +365,8 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Android Application.bbs">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -530,19 +401,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -569,6 +427,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -667,6 +538,7 @@
     <option name="IGNORE_EXTERNALS" value="false" />
     <configuration useDefault="true">C:\Users\wangchao\AppData\Roaming\Subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="SvnFileUrlMappingImpl">
     <option name="myMappingRoots">
@@ -695,35 +567,35 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="134" y="116" width="1496" height="830" extended-state="0" />
-    <editor active="false" />
+    <frame x="147" y="46" width="1408" height="895" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.6707865" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29415584" sideWeight="0.6707865" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39570552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.6707865" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29415584" sideWeight="0.6707865" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.398773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921347" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297546" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.6707865" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23619632" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921347" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.6707865" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.119944215" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14957865" sideWeight="0.76380366" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32822084" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1751497" sideWeight="0.8800558" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32775453" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39570552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -787,31 +659,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="15" selection-start="0" selection-end="1144" vertical-scroll-proportion="0.47030878">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/res/layout/fristview.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="18" selection-start="1347" selection-end="1347" vertical-scroll-proportion="0.9506726">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/com/zol/android/ui/FirstActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="415" column="7" selection-start="13520" selection-end="13520" vertical-scroll-proportion="0.6457023">
-          <folding />
-        </state>
+        <state line="415" column="7" selection-start="13520" selection-end="13520" vertical-scroll-proportion="0.6457023" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -821,96 +671,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/bbs/IndexActivity.java">
+    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/res/values/public.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="40" selection-start="1127" selection-end="1375" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="1266" column="60" selection-start="92603" selection-end="92613" vertical-scroll-proportion="0.21276596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="47" selection-start="7093" selection-end="7093" vertical-scroll-proportion="0.21276596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/com/zol/android/bbs_adapter/BbsHomePageAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="53" selection-start="1436" selection-end="1446" vertical-scroll-proportion="0.040968344">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/readme">
+    <entry file="file://$PROJECT_DIR$/src/com/example/bbs/IndexActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="20" selection-start="1198" selection-end="1198" vertical-scroll-proportion="0.0">
+        <state line="43" column="28" selection-start="1182" selection-end="1185" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../android-sdk-windows/sources/android-17/android/database/sqlite/SQLiteOpenHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="187" column="0" selection-start="8550" selection-end="8550" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/index_zol.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="15" selection-start="446" selection-end="446" vertical-scroll-proportion="-5.107143">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/bbs/zol/IndexZolActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="42" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/res/values/public.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1266" column="60" selection-start="92603" selection-end="92613" vertical-scroll-proportion="0.21276596">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="47" selection-start="7093" selection-end="7093" vertical-scroll-proportion="0.21276596">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/index_zol.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="351" selection-end="351" vertical-scroll-proportion="-3.142857">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="50" selection-start="5652" selection-end="5652" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/res/layout/bbs_home_item.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="32" selection-start="966" selection-end="966" vertical-scroll-proportion="-7.806452">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/com/zol/android/bbs_adapter/BbsHomePageAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="53" selection-start="1436" selection-end="1446" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/com/zol/android/ui/bbs/SubForum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="43" selection-start="1105" selection-end="1105" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="30" selection-start="1136" selection-end="1148" vertical-scroll-proportion="0.0">
+        <state line="22" column="50" selection-start="515" selection-end="594" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/com/zol/android/R.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2153" column="55" selection-start="125397" selection-end="125407" vertical-scroll-proportion="0.26241136">
+        <state line="2153" column="55" selection-start="125397" selection-end="125407" vertical-scroll-proportion="0.04206501">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="30" selection-start="1136" selection-end="1148" vertical-scroll-proportion="0.041044775">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/com/zol/android/ui/bbs/SubForum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="43" selection-start="1105" selection-end="1105" vertical-scroll-proportion="0.04206501">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/res/layout/bbs_home_item.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="32" selection-start="966" selection-end="966" vertical-scroll-proportion="0.49186993">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes_dex2jar.src/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="50" selection-start="5652" selection-end="5652" vertical-scroll-proportion="0.04206501">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="13" selection-start="931" selection-end="939" vertical-scroll-proportion="-3.0714285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="43" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.48247078">
           <folding />
         </state>
       </provider>
